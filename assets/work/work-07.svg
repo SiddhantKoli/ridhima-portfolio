@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="100%" height="100%">
+  <defs>
+    <linearGradient id="g7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D1E2F" />
+      <stop offset="50%" stop-color="#472D4D" />
+      <stop offset="100%" stop-color="#19111C" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g7)" />
+  <g opacity="0.18">
+    <rect x="250" y="180" width="300" height="520" rx="36" stroke="#F5D061" stroke-width="2" fill="none"/>
+    <circle cx="400" cy="720" r="14" fill="#F5D061"/>
+    <polygon points="385,420 425,445 385,470" fill="#F5D061"/>
+  </g>
+  <rect x="70" y="70" width="660" height="860" rx="24" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <text x="400" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#F5D061" letter-spacing="4" text-anchor="middle">SOCIAL REELS &amp; CONTENT</text>
+  <text x="400" y="470" font-family="'Syne', system-ui, sans-serif" font-size="52" font-weight="800" fill="#FAF8F5" text-anchor="middle" letter-spacing="-1">Kathak Institute</text>
+  <text x="400" y="520" font-family="system-ui, sans-serif" font-size="20" font-weight="400" fill="#D4BBD8" text-anchor="middle">Reels, Video Hooks &amp; Grid Strategy</text>
+  <rect x="290" y="580" width="220" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <text x="400" y="609" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#FAF8F5" letter-spacing="1.5" text-anchor="middle">PLACEHOLDER SLOT 07</text>
+  <text x="400" y="860" font-family="system-ui, sans-serif" font-size="13" fill="#887" text-anchor="middle">Drop assets/work/work-07.jpg to replace</text>
+</svg>
