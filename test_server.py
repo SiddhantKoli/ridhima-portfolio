@@ -5,7 +5,7 @@ urls = [
     'styles.css',
     'script.js',
     'assets/favicon.svg',
-    'assets/rc-avatar.png',
+    'assets/ridhima-portrait.jpg',
     'assets/work/fincredible-2026.png',
     'assets/work/fincredible-2025.png',
     'assets/work/smooth-roads-campaign.png',
